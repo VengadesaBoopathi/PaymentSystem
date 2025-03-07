@@ -1,4 +1,4 @@
-# Payment System :currency_exchange:
+# Payment System  
 
 ## About :thought_balloon:
 
